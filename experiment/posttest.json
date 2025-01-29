@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The sparkover voltage:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increases with humidity",
+        "b": "Decreases with the partial pressure of water vapour in air",
+        "c": "Humidity effect decreases with the size of spheres",
+        "d": "Humidity is minimum for uniform field gaps"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Impulse voltages are characterized by:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "polarity",
+        "b": "time of half the peak value",
+        "c": "peak value",
+        "d": "all of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following technique/method is-used for the measurements of ac high frequency voltages ?",
+      "answers": {
+        "a": "Resistance potential divider",
+        "b": "Peak voltmeter",
+        "c": "Series resistance micro ammeter",
+        "d": "Any of the above"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
