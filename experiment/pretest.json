@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which theory explains the mechanisms for breakdown under different conditions?",
+      "question": "1. Which theory explains the mechanisms for breakdown under different conditions?",
       "answers": {
         "a": "Townsent theory",
         "b": "Streamer theory",
@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": " To measure high voltage of peak value about 150 kV, the suitable sphere gap would be:",
+      "question": "2. To measure high voltage of peak value about 150 kV, the suitable sphere gap would be:",
       "answers": {
         "a": "5 cm",
         "b": "10 cm",
@@ -26,7 +26,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The essential condition for paschen's law to be valied is that:",
+      "question": "3. The essential condition for paschen's law to be valied is that:",
       "answers": {
         "a": "Humidity must be low",
         "b": "Temperature must be constant",
