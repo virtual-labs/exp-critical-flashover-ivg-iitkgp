@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The sparkover voltage:",
+      "answers": {
+        "a": "Increases with humidity",
+        "b": "Decreases with the partial pressure of water vapour in air",
+        "c": "Humidity effect decreases with the size of spheres",
+        "d": "Humidity is minimum for uniform field gaps"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Impulse voltages are characterized by:",
+      "answers": {
+        "a": "polarity",
+        "b": "time of half the peak value",
+        "c": "peak value",
+        "d": "all of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which of the following technique/method is-used for the measurements of ac high frequency voltages ?",
+      "answers": {
+        "a": "Resistance potential divider",
+        "b": "Peak voltmeter",
+        "c": "Series resistance micro ammeter",
+        "d": "Any of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
