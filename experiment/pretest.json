@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which theory explains the mechanisms for breakdown under different conditions?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Townsent theory",
+        "b": "Streamer theory",
+        "c": "Clump theory",
+        "d": "Only (a) and (b)"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. To measure high voltage of peak value about 150 kV, the suitable sphere gap would be:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "5 cm",
+        "b": "10 cm",
+        "c": "15-25 cm",
+        "d": "50 cm"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The essential condition for paschen's law to be valied is that:",
+      "answers": {
+        "a": "Humidity must be low",
+        "b": "Temperature must be constant",
+        "c": "Voltage must be DC",
+        "d": "Voltage must be AC"
+      },
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
