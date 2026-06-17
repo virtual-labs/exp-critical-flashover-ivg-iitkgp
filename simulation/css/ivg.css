@@ -1,0 +1,500 @@
+/**
+ * 
+ *  Document     : ivg.css
+ *  Created on   : Jan 26, 2017, 4:35:25 AM
+ *  Author       : Subir Sekhar
+ *  Co-Author    : Pabitra K Jana
+ *  Organization : IIT Khatagpur
+ *  
+ */
+@charset "utf-8";
+#whole_body
+{
+    position:relative;
+    margin-left:0px; margin-right:auto;
+    top:0px; 
+    width:100%;
+    height:99%;
+    background-color:#E0FFFF;
+}
+#title
+{
+
+    padding-top: 0px;
+    text-align:center;
+    height:5%;
+    width:90%;
+    position:absolute; 
+    left:7.5%;
+    margin-left:auto; 
+    margin-right:auto;     
+    color: #000000;
+    top: 2%;
+    font-size: 200%;
+    font-size: 2.5vw
+}
+
+#logo1,#logo2
+{
+   padding-top: 0px;
+    text-align:center;
+    height:8%;
+    width:5%;
+    margin-left:auto; 
+    margin-right:auto;     
+    color: #000000;
+    font-size: 200%;
+    font-size: 2.5vw  
+}
+#logo{
+    position:absolute; 
+     top: 0.5%;
+   float: left;
+   left:0.5%; 
+        height:12%;
+    width:9%;
+}
+#logo1{
+     position:absolute; 
+     top: 1.5%;
+   float: left;
+   left:10.8%
+}
+#logo2{
+     position:absolute; 
+     top: 0.5%;
+   float: right;
+   right:8%
+}
+#csg
+{
+    width: 100%;
+    height: 80%;
+    top:17%;
+    background-color: #E0FFFF;
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto;    
+}
+
+#controller
+{
+    position:absolute;
+    margin-left:auto;
+    margin-right:auto; 
+    top:0.9%;
+    left:0.3%;
+    width:39%;
+    height:83.5%;
+    border:solid royalblue 0.3em;
+    text-align:center;
+    background-color: #E0FFFF;
+
+}
+#controller_title
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto;  
+    width:100%; 
+    height:5%;
+    font-size:100%; 
+    font-size: 1.3vw;  
+    background-color:#4169E1; 
+    text-align: center;
+    top:0%;
+
+}
+
+#shapecanvas2
+{
+    border:none;
+    left:1px;
+    width:100%; 
+    height:100%;
+}
+
+#model
+{
+    width:100%;
+    height:90%;
+    position:absolute;
+    top:5%;
+
+}
+#selectValue{
+    width: 100%;
+    height: 7%;
+    position:absolute;
+    top:12%;
+    color: black;
+}
+#SG,#SD,#BV,#selectParmameters{
+    width: 25%;
+    position: absolute;
+    background: whitesmoke;
+    text-align: center;
+
+}
+#selectParmameters{
+    left:0%;
+}
+#SD{
+    left:25%;   
+}
+#SG{
+    left: 50%
+}
+#BV{
+    left: 75%
+}
+#sphereGap,#breakdownVoltage,#sphereDiameter{
+    width:25%;
+}
+
+#bttn
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto;  
+    height:10%; 
+    top:84.5%;
+    left:0.3%;
+    width:39%;
+    border:solid royalblue 0.3em;
+    text-align:center;
+    background-color: #E0FFFF; 
+}
+#bttn5
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:20%; 
+    height:20%;
+    top:1%;
+    left:80%;
+    background-color:#FFFFCC;; 
+}
+
+.btn{
+    font-size: 100%;
+    font-size: 0.85vw;
+    width: 100%;
+
+}
+#bttn1
+{
+    position:absolute; 
+    left: 2.5%;
+    float: left;
+    width: 30%;
+    top:20%;
+
+}
+#bttn3
+{
+    position:absolute; 
+    left:68%;
+    width: 30%;
+    top:20%;
+}
+#bttn2
+{
+    position:absolute; 
+    left: 52.5%;
+    float: left;
+    width: 20%;
+    top:20%;
+
+}
+#bttn4
+{
+    position:absolute; 
+    left:35%;
+    float: left;
+    width: 30%;
+    top:20%;
+}
+
+
+.ip
+{
+    width: 15%;
+    left: 80%
+}
+
+#simulator
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:59.5%; 
+    height:100%;
+    top:0.9%;   
+    left:40%;
+    background-color:#EOFFFF;
+}
+html {
+    height: 100%;
+    overflow: visible;
+
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    display: block !important;
+    height: 100%;
+
+    background-color: #E0FFFF;
+    color: white;
+    text-decoration: none;
+    word-spacing: normal;
+    text-align: left;
+    letter-spacing: 0;
+
+
+    -webkit-font-smoothing: antialiased;
+
+    overflow: visible;
+}
+#graph
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:100%; 
+    height:100%;
+    top:0%;   
+    left:0%;
+    background-color: #E0FFFF;
+    display: none;
+
+}
+#graph1{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:100%; 
+    height:70%;
+    top:17%;   
+    left:0%;
+    background-color: #E0FFFF;
+    /*    visibility:hidden;*/
+    display: none;
+
+}
+#visualization_wrap {
+    border:1px solid gray;
+    position: relative;
+    /*    padding-bottom: 85%;*/
+    height: 90%;
+    overflow:hidden;
+    top:5%;
+    width: 99.8%;
+}
+#visualization_wrap1{
+    border:1px solid gray;
+    position: relative;
+    /*    padding-bottom: 85%;*/
+    height: 100%;
+    overflow:hidden;
+    top:10%;
+    width: 99.8%;
+}
+#visualization, #chartContainer{
+    position: absolute;
+    width:100%;
+    height:100%;
+}
+/*#visualization
+{
+    width: 100%;
+    height: 95%;
+    top: 20px;
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    border:solid gainsboro 0.1em;
+    text-align:center;
+    background-color: #FFFFFF;  
+}*/
+
+
+#model_title
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:33.2%; 
+    height:4.5%;
+    font-size:100%; 
+    font-size: 1.5vw;
+    text-align:center;  
+    background-color:#4169E1;
+    float: left;
+
+}
+
+#CHARACTERISTICS
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto;  
+    width:100%; 
+    height:5%;
+    font-size:15px;
+    font-size: 1.5vw;
+    text-align:center;  
+    background-color:#4169E1;    
+}
+#CHARACTERISTICS1{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto;  
+    width:100%; 
+    height:10%;
+    font-size:15px;
+    font-size: 1.5vw;
+    text-align:center;  
+    background-color:#4169E1;    
+}
+
+ol {
+    display: block;
+    list-style-type: decimal;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-padding-start: 10%;
+    position: absolute;
+
+    font-size: 8px;
+    font-size: 1vw;
+}
+#lisence
+{
+    font-size:15px;
+    font-size: 1.0VW;
+    padding-top: 0.5%;
+    text-align:center;
+    height:4%;
+    width:100%;
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto;        
+    color: #000000;
+    left:0px;
+    top: 96%;  
+}
+#bdy{
+    width:100%;
+    height:100%;
+}
+img {
+    width: 100%;
+    height: 90%;
+    left:0%;
+}
+
+#meter{
+    width:40%;
+    height: 5%;
+    top: 1%;
+    left: 1%;
+    background-color: transparent;
+    position:absolute;
+}
+
+#mainTable{
+    position: absolute;
+    top:20%;
+    width: 95%;
+    left: 2.5%;
+    height: 50%;
+    color: black;
+}
+.calValue{
+    position: absolute;
+    top:85%;
+    width: 95%;
+    left: 2.5%;
+    height: 10%;
+    color: black;
+}
+
+.ip
+{
+    /*    width: 20%;
+        left: 75%;*/
+    position :absolute;
+    top:0%;
+    color:black;
+    /*    height: 75%;*/
+    font-size:15px;
+    font-size: 1.0VW;
+
+}
+
+#instructions
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:33.2%; 
+    height:4.5%;
+    font-size:100%; 
+    font-size: 1.5vw;
+    text-align:center;  
+    background-color:#4169E1;
+    float:right;
+    left:33.33%;
+}
+#model_title
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:33.2%; 
+    height:4.5%;
+    font-size:100%; 
+    font-size: 1.5vw;
+    text-align:center;  
+    background-color:#4169E1;
+    float: left;
+
+}
+
+#eqv_ckt
+{
+    position:absolute; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:33.3%; 
+    height:4.5%;
+    font-size:100%; 
+    font-size: 1.5vw;
+    text-align:center;  
+    background-color:#4169E1;
+    float:right;
+    left:66.7%;
+}
+.dropdown-content1 {
+
+    color: black;
+    background-color: #FFFFFF;
+
+    width: 91.8%;
+    height:62%;
+    left: 0.1%;
+    padding: 8.8% 4%;
+    z-index: 10;
+    cursor: pointer;
+    position: absolute;
+    display: none;
+    text-align: left;
+    top: 5.1%;
+}
+.dropdown:hover .dropdown-content1 {
+    display: block;
+}

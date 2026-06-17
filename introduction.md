@@ -1,0 +1,3 @@
+## Introduction
+
+There is a statistical nature associated with the breakdown /flashover voltages of insulating structures under impulse voltages. The breakdown is known to follow a Gaussian distribution. The standard deviation of this distribution varies with the wave shape, gap geometry, and atmospheric conditions The impulse breakdown voltages are thus specified by a Critical Flash Over Voltage (CFO) or the mean value i.e. 50 % probability of flashover.
