@@ -29,12 +29,12 @@
       "question": "3. Which of the following technique/method is-used for the measurements of ac high frequency voltages ?",
       "answers": {
         "a": "Resistance potential divider",
-        "b": "Peak voltmeter",
-        "c": "Series resistance micro ammeter",
+        "b": "Series resistance micro ammeter",
+        "c": "Peak voltmeter",
         "d": "Any of the above"
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
