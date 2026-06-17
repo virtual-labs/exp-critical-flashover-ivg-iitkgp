@@ -5,102 +5,103 @@ obj = [
     {
         "sphere_diameter": "2",
         "myObj":
-                [
-                    {"sphere_gap": "0.05",
-                        "Voltage": "2.8",
-                        "Polarity": "Neg"
-                    },
-                    {
+            [
+                {
+                    "sphere_gap": "0.05",
+                    "Voltage": "2.8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.1",
-                        "Voltage": "4.7",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.1",
+                    "Voltage": "4.7",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.15",
-                        "Voltage": "6.4",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.15",
+                    "Voltage": "6.4",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.2",
-                        "Voltage": "8",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.2",
+                    "Voltage": "8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.25",
-                        "Voltage": "9.6",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.25",
+                    "Voltage": "9.6",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.3",
-                        "Voltage": "11.2",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.3",
+                    "Voltage": "11.2",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.4",
-                        "Voltage": "14.4",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.4",
+                    "Voltage": "14.4",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.5",
-                        "Voltage": "17.3",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.5",
+                    "Voltage": "17.3",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.6",
-                        "Voltage": "20.4",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.6",
+                    "Voltage": "20.4",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.7",
-                        "Voltage": "23.2",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.7",
+                    "Voltage": "23.2",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.8",
-                        "Voltage": "25.8",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.8",
+                    "Voltage": "25.8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.9",
-                        "Voltage": "28.3",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.9",
+                    "Voltage": "28.3",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1",
-                        "Voltage": "30.7",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1",
+                    "Voltage": "30.7",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.2",
-                        "Voltage": "35.1",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.2",
+                    "Voltage": "35.1",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.4",
-                        "Voltage": "38.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.4",
+                    "Voltage": "38.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.5",
-                        "Voltage": "40",
-                        "Polarity": "Neg"
-                    }
-                ]
+                    "sphere_gap": "1.5",
+                    "Voltage": "40",
+                    "Polarity": "Neg"
+                }
+            ]
     },
     {
         "sphere_diameter": "5",
@@ -384,742 +385,742 @@ obj = [
     {
         "sphere_diameter": "10",
         "myObj":
-                [
-                    {
-                        "sphere_gap": "0.5",
-                        "Voltage": "16.8",
-                        "Polarity": "Neg"
-                    },
-                    {
+            [
+                {
+                    "sphere_gap": "0.5",
+                    "Voltage": "16.8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.6",
-                        "Voltage": "19.8",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.6",
+                    "Voltage": "19.8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.7",
-                        "Voltage": "23",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.7",
+                    "Voltage": "23",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.8",
-                        "Voltage": "26",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.8",
+                    "Voltage": "26",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.9",
-                        "Voltage": "28.9",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.9",
+                    "Voltage": "28.9",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1",
-                        "Voltage": "31.7",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1",
+                    "Voltage": "31.7",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.2",
-                        "Voltage": "37.4",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.2",
+                    "Voltage": "37.4",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.4",
-                        "Voltage": "42.9",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.4",
+                    "Voltage": "42.9",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.5",
-                        "Voltage": "45.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.5",
+                    "Voltage": "45.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.6",
-                        "Voltage": "48.1",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.6",
+                    "Voltage": "48.1",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.8",
-                        "Voltage": "53.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.8",
+                    "Voltage": "53.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2",
-                        "Voltage": "59",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2",
+                    "Voltage": "59",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.2",
-                        "Voltage": "64.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.2",
+                    "Voltage": "64.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.4",
-                        "Voltage": "69.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.4",
+                    "Voltage": "69.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.6",
-                        "Voltage": "74.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.6",
+                    "Voltage": "74.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.8",
-                        "Voltage": "79.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.8",
+                    "Voltage": "79.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "3",
-                        "Voltage": "84",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "3",
+                    "Voltage": "84",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "3.5",
-                        "Voltage": "95",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "3.5",
+                    "Voltage": "95",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "4",
-                        "Voltage": "105",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "4",
+                    "Voltage": "105",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "4.5",
-                        "Voltage": "115",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "4.5",
+                    "Voltage": "115",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "5",
-                        "Voltage": "123",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "5",
+                    "Voltage": "123",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "5.5",
-                        "Voltage": "131",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "5.5",
+                    "Voltage": "131",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "6",
-                        "Voltage": "138",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "6",
+                    "Voltage": "138",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "6.5",
-                        "Voltage": "144",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "6.5",
+                    "Voltage": "144",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "7",
-                        "Voltage": "150",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "7",
+                    "Voltage": "150",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "7.5",
-                        "Voltage": "155",
-                        "Polarity": "Neg"
-                    }
-                ]
+                    "sphere_gap": "7.5",
+                    "Voltage": "155",
+                    "Polarity": "Neg"
+                }
+            ]
     },
     {
         "sphere_diameter": "12.5",
         "myObj":
-                [
-                    {
-                        "sphere_gap": "0.5",
-                        "Voltage": "16.8",
-                        "Polarity": "Neg"
-                    },
-                    {
+            [
+                {
+                    "sphere_gap": "0.5",
+                    "Voltage": "16.8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.6",
-                        "Voltage": "19.8",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.6",
+                    "Voltage": "19.8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.7",
-                        "Voltage": "23",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.7",
+                    "Voltage": "23",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.8",
-                        "Voltage": "26",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.8",
+                    "Voltage": "26",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.9",
-                        "Voltage": "28.9",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.9",
+                    "Voltage": "28.9",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1",
-                        "Voltage": "31.7",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1",
+                    "Voltage": "31.7",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.2",
-                        "Voltage": "37.4",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.2",
+                    "Voltage": "37.4",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.4",
-                        "Voltage": "42.9",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.4",
+                    "Voltage": "42.9",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.5",
-                        "Voltage": "45.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.5",
+                    "Voltage": "45.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.6",
-                        "Voltage": "48.1",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.6",
+                    "Voltage": "48.1",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.8",
-                        "Voltage": "53.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.8",
+                    "Voltage": "53.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2",
-                        "Voltage": "59",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2",
+                    "Voltage": "59",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.2",
-                        "Voltage": "64.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.2",
+                    "Voltage": "64.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.4",
-                        "Voltage": "70",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.4",
+                    "Voltage": "70",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.6",
-                        "Voltage": "75",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.6",
+                    "Voltage": "75",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.8",
-                        "Voltage": "80",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.8",
+                    "Voltage": "80",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "3",
-                        "Voltage": "85",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "3",
+                    "Voltage": "85",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "3.5",
-                        "Voltage": "97",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "3.5",
+                    "Voltage": "97",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "4",
-                        "Voltage": "108",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "4",
+                    "Voltage": "108",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "4.5",
-                        "Voltage": "119",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "4.5",
+                    "Voltage": "119",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "5",
-                        "Voltage": "129",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "5",
+                    "Voltage": "129",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "5.5",
-                        "Voltage": "138",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "5.5",
+                    "Voltage": "138",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "6",
-                        "Voltage": "146",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "6",
+                    "Voltage": "146",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "6.5",
-                        "Voltage": "154",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "6.5",
+                    "Voltage": "154",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "7",
-                        "Voltage": "161",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "7",
+                    "Voltage": "161",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "7.5",
-                        "Voltage": "168",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "7.5",
+                    "Voltage": "168",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "8",
-                        "Voltage": "174",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "8",
+                    "Voltage": "174",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "9",
-                        "Voltage": "185",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "9",
+                    "Voltage": "185",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "10",
-                        "Voltage": "195",
-                        "Polarity": "Neg"
-                    }
-                ]
+                    "sphere_gap": "10",
+                    "Voltage": "195",
+                    "Polarity": "Neg"
+                }
+            ]
     },
     {
         "sphere_diameter": "15",
         "myObj":
-                [
-                    {
-                        "sphere_gap": "0.5",
-                        "Voltage": "16.8",
-                        "Polarity": "Neg"
-                    },
-                    {
+            [
+                {
+                    "sphere_gap": "0.5",
+                    "Voltage": "16.8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.6",
-                        "Voltage": "19.8",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.6",
+                    "Voltage": "19.8",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.7",
-                        "Voltage": "23",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.7",
+                    "Voltage": "23",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.8",
-                        "Voltage": "26",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.8",
+                    "Voltage": "26",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "0.9",
-                        "Voltage": "28.9",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "0.9",
+                    "Voltage": "28.9",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1",
-                        "Voltage": "31.7",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1",
+                    "Voltage": "31.7",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.2",
-                        "Voltage": "37.4",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.2",
+                    "Voltage": "37.4",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.4",
-                        "Voltage": "42.9",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.4",
+                    "Voltage": "42.9",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.5",
-                        "Voltage": "45.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.5",
+                    "Voltage": "45.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.6",
-                        "Voltage": "48.1",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.6",
+                    "Voltage": "48.1",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.8",
-                        "Voltage": "53.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.8",
+                    "Voltage": "53.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2",
-                        "Voltage": "59",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2",
+                    "Voltage": "59",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.2",
-                        "Voltage": "64.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.2",
+                    "Voltage": "64.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.4",
-                        "Voltage": "70",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.4",
+                    "Voltage": "70",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.6",
-                        "Voltage": "75.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.6",
+                    "Voltage": "75.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.8",
-                        "Voltage": "80.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.8",
+                    "Voltage": "80.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "3",
-                        "Voltage": "85.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "3",
+                    "Voltage": "85.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "3.5",
-                        "Voltage": "98",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "3.5",
+                    "Voltage": "98",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "4",
-                        "Voltage": "110",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "4",
+                    "Voltage": "110",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "4.5",
-                        "Voltage": "122",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "4.5",
+                    "Voltage": "122",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "5",
-                        "Voltage": "133",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "5",
+                    "Voltage": "133",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "5.5",
-                        "Voltage": "143",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "5.5",
+                    "Voltage": "143",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "6",
-                        "Voltage": "152",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "6",
+                    "Voltage": "152",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "6.5",
-                        "Voltage": "161",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "6.5",
+                    "Voltage": "161",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "7",
-                        "Voltage": "169",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "7",
+                    "Voltage": "169",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "7.5",
-                        "Voltage": "177",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "7.5",
+                    "Voltage": "177",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "8",
-                        "Voltage": "185",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "8",
+                    "Voltage": "185",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "9",
-                        "Voltage": "198",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "9",
+                    "Voltage": "198",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "10",
-                        "Voltage": "209",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "10",
+                    "Voltage": "209",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "11",
-                        "Voltage": "219",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "11",
+                    "Voltage": "219",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "12",
-                        "Voltage": "229",
-                        "Polarity": "Neg"
-                    }
-                ]
+                    "sphere_gap": "12",
+                    "Voltage": "229",
+                    "Polarity": "Neg"
+                }
+            ]
     },
     {
         "sphere_diameter": "25",
         "myObj":
-                [
-                    {
-                        "sphere_gap": "1",
-                        "Voltage": "31.7",
-                        "Polarity": "Neg"
-                    },
-                    {
+            [
+                {
+                    "sphere_gap": "1",
+                    "Voltage": "31.7",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.2",
-                        "Voltage": "37.4",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.2",
+                    "Voltage": "37.4",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.4",
-                        "Voltage": "42.9",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.4",
+                    "Voltage": "42.9",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.5",
-                        "Voltage": "45.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.5",
+                    "Voltage": "45.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.6",
-                        "Voltage": "48.1",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.6",
+                    "Voltage": "48.1",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "1.8",
-                        "Voltage": "53.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "1.8",
+                    "Voltage": "53.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2",
-                        "Voltage": "59",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2",
+                    "Voltage": "59",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.2",
-                        "Voltage": "64.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.2",
+                    "Voltage": "64.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.4",
-                        "Voltage": "70",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.4",
+                    "Voltage": "70",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.6",
-                        "Voltage": "75.5",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.6",
+                    "Voltage": "75.5",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "2.8",
-                        "Voltage": "81",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "2.8",
+                    "Voltage": "81",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "3",
-                        "Voltage": "86",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "3",
+                    "Voltage": "86",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "3.5",
-                        "Voltage": "99",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "3.5",
+                    "Voltage": "99",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "4",
-                        "Voltage": "112",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "4",
+                    "Voltage": "112",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "4.5",
-                        "Voltage": "125",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "4.5",
+                    "Voltage": "125",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "5",
-                        "Voltage": "137",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "5",
+                    "Voltage": "137",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "5.5",
-                        "Voltage": "149",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "5.5",
+                    "Voltage": "149",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "6",
-                        "Voltage": "161",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "6",
+                    "Voltage": "161",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "6.5",
-                        "Voltage": "173",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "6.5",
+                    "Voltage": "173",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "7",
-                        "Voltage": "184",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "7",
+                    "Voltage": "184",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "7.5",
-                        "Voltage": "195",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "7.5",
+                    "Voltage": "195",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "8",
-                        "Voltage": "206",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "8",
+                    "Voltage": "206",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "9",
-                        "Voltage": "226",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "9",
+                    "Voltage": "226",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "10",
-                        "Voltage": "244",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "10",
+                    "Voltage": "244",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "11",
-                        "Voltage": "261",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "11",
+                    "Voltage": "261",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "12",
-                        "Voltage": "275",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "12",
+                    "Voltage": "275",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "13",
-                        "Voltage": "289",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "13",
+                    "Voltage": "289",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "14",
-                        "Voltage": "302",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "14",
+                    "Voltage": "302",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "15",
-                        "Voltage": "314",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "15",
+                    "Voltage": "314",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "16",
-                        "Voltage": "326",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "16",
+                    "Voltage": "326",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "17",
-                        "Voltage": "337",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "17",
+                    "Voltage": "337",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "18",
-                        "Voltage": "347",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "18",
+                    "Voltage": "347",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "19",
-                        "Voltage": "357",
-                        "Polarity": "Neg"
-                    },
-                    {
+                    "sphere_gap": "19",
+                    "Voltage": "357",
+                    "Polarity": "Neg"
+                },
+                {
 
-                        "sphere_gap": "20",
-                        "Voltage": "366",
-                        "Polarity": "Neg"
-                    }
-                ]
+                    "sphere_gap": "20",
+                    "Voltage": "366",
+                    "Polarity": "Neg"
+                }
+            ]
     },
     {
         "sphere_diameter": "50",
@@ -2336,102 +2337,246 @@ var m = "<option>--select--</option>";
 var n = "";
 var i = "";
 var j = "";
- //alert("len="+obj.length);
+//alert("len="+obj.length);
 for (i in obj) {
     m = m + "<option>" + obj[i].sphere_diameter + "</option>";
     document.getElementById("sphereDiameter").innerHTML = m;
-  };
-  function xyz(){
- 
-  l="<option>--select--</option>";
- // alert(document.getElementById("sphereDiameter").value);
-        for (j in obj) {      
-            if(obj[j].sphere_diameter === document.getElementById("sphereDiameter").value) { 
-                for(i in obj[j].myObj)
-                {
-                    l = l + "  <option>" + obj[j].myObj[i].sphere_gap + "</option>";
-                    document.getElementById("sphereGap").innerHTML = l;
-                 }
-                 break;
+};
+function xyz() {
+
+    l = "<option>--select--</option>";
+    // alert(document.getElementById("sphereDiameter").value);
+    for (j in obj) {
+        if (obj[j].sphere_diameter === document.getElementById("sphereDiameter").value) {
+            for (i in obj[j].myObj) {
+                l = l + "  <option>" + obj[j].myObj[i].sphere_gap + "</option>";
+                document.getElementById("sphereGap").innerHTML = l;
             }
+            break;
         }
-        wlkgp();
- }
- 
- function abc(){
+    }
+    wlkgp();
+}
+
+function abc() {
     var sphere_diam = document.getElementById("sphereDiameter").value;
     var sphere_gap = document.getElementById("sphereGap").value;
-    var temperature = document.getElementById("weather1").innerHTML;
-    var pressure = document.getElementById("weather4").innerHTML;
-    var humidity = document.getElementById("weather3").innerHTML;
-    var delta = ((pressure/1013)*((273+20)/(273+temperature)));
-    var gama =  Number(1+(0.014 *((humidity/ delta) - 11)));
-//    alert(temperature);
-    
-        for (j in obj) {
-            if(obj[j].sphere_diameter === sphere_diam) {
-                for(i in obj[j].myObj){
+    var temperature = parseFloat(document.getElementById("weather1").innerHTML);
+    var pressure = parseFloat(document.getElementById("weather4").innerHTML);
+    var humidity = parseFloat(document.getElementById("weather3").innerHTML);
+    var delta = ((pressure / 1013) * ((273 + 20) / (273 + temperature)));
+    var gama = Number(1 + (0.014 * ((humidity / delta) - 11)));
+    //    alert(temperature);
 
-                    if(obj[j].myObj[i].sphere_gap === sphere_gap) {
-                       // volt = parseFloat(((obj[j].myObj[i].Voltage)* delta *gama)/3);
-                        volt = parseFloat((obj[j].myObj[i].Voltage)/3);
-                     
-                       options = "<option>--select--</option>";
-                       var s_val = -15;
-                       var e_val = 15;
-                       var ind = 0;
-                       for(k=s_val; k<=e_val; k=k+5) {
-                           if(k !== 0) {
-                                var voltage = (volt+((volt*k) / 100)).toFixed(2);
-                                options += "<option value="+ voltage +" level="+ ind +">" + voltage + "</option>";
-                                ind++;
-                            } 
-                       } 
-                       document.getElementById("breakdownVoltage").innerHTML = options;
-                       break;
+    for (j in obj) {
+        if (obj[j].sphere_diameter === sphere_diam) {
+            for (i in obj[j].myObj) {
+
+                if (obj[j].myObj[i].sphere_gap === sphere_gap) {
+                    if (!isNaN(delta) && !isNaN(gama)) {
+                        volt = parseFloat(((obj[j].myObj[i].Voltage) * delta * gama) / 3);
+                    } else {
+                        volt = parseFloat((obj[j].myObj[i].Voltage) / 3);
                     }
 
-                    //n = n + "  <option>" + obj[j].myObj[i].Voltage + "</option>";
-                   
+                    options = "<option>--select--</option>";
+                    var s_val = -15;
+                    var e_val = 15;
+                    var ind = 0;
+                    for (k = s_val; k <= e_val; k = k + 5) {
+                        if (k !== 0) {
+                            var voltage = (volt + ((volt * k) / 100)).toFixed(2);
+                            options += "<option value=" + voltage + " level=" + ind + ">" + voltage + "</option>";
+                            ind++;
+                        }
+                    }
+                    document.getElementById("breakdownVoltage").innerHTML = options;
+                    break;
                 }
-                break;
-                
+
+                //n = n + "  <option>" + obj[j].myObj[i].Voltage + "</option>";
+
             }
-           //console.log(obj[j].sphere_diameter); 
+            break;
 
         }
-     }
-     
-     
-     var addr;
-    $.get("http://ipinfo.io", function (response) {
-    $("#address").html( response.city + ", " + response.region);
-   
-   addr = $('#address').text();
-//  alert(addr);
-}, "jsonp");
+        //console.log(obj[j].sphere_diameter); 
 
-function wlkgp(){
-var addrs =  document.getElementById("address").innerHTML;
-reallySimpleWeather.weather({
-    wunderkey: '', // leave blank for Yahoo
-    location: addrs, //your location 
-    woeid: '', // "Where on Earth ID"
-    unit: 'f', // 'c' also works
-    success: function(weather) {
-      html1 = parseInt((weather.temp-32)*(5/9));
-//      html2= '<ul><li>'+weather.city+', '+weather.region+'</li>';
-      html3= weather.humidity;
-      html4= weather.pressure;
-      html = (html1 -32)*(5/9);
-	  document.getElementById('weather1').innerHTML = html1;
-//           document.getElementById('weather2').innerHTML = html2;
-           document.getElementById('weather3').innerHTML = html3;
-           document.getElementById('weather4').innerHTML = html4;
-    },
-    error: function(error) {
-	  document.getElementById('weather1').innerHTML = '<p>'+error+'</p>';
     }
-});
 }
-     
+
+
+var weatherData = {
+    temp: 27,
+    humidity: 60,
+    pressure: 1013,
+    city: "Kharagpur",
+    region: "West Bengal"
+};
+
+function updateWeatherUI() {
+    var w1 = document.getElementById('weather1');
+    var w3 = document.getElementById('weather3');
+    var w4 = document.getElementById('weather4');
+    var addrDiv = document.getElementById('address');
+    if (w1) w1.innerHTML = weatherData.temp;
+    if (w3) w3.innerHTML = weatherData.humidity;
+    if (w4) w4.innerHTML = weatherData.pressure;
+    if (addrDiv) addrDiv.innerHTML = weatherData.city + ", " + weatherData.region;
+}
+
+function fetchWeather() {
+    var w1 = document.getElementById('weather1');
+    var w3 = document.getElementById('weather3');
+    var w4 = document.getElementById('weather4');
+    if (w1) w1.innerHTML = "...";
+    if (w3) w3.innerHTML = "...";
+    if (w4) w4.innerHTML = "...";
+
+    // 1. Check Session Cache to prevent redundant geolocation lookups and preserve API quotas
+    try {
+        var cachedGeo = sessionStorage.getItem("vlab_ivg_geolocation");
+        if (cachedGeo) {
+            var geo = JSON.parse(cachedGeo);
+            if (geo && geo.lat && geo.lon) {
+                getWeatherData(geo.lat, geo.lon, geo.city, geo.region, "Cached Session");
+                return;
+            }
+        }
+    } catch (e) {
+        console.warn("sessionStorage not available:", e);
+    }
+
+    // 2. Start geolocation lookup chain (query high-limit freeipapi.com first to conserve ipapi.co quota)
+    tryFreeipapiCors();
+
+    // --- CORS Attempts ---
+
+    function tryFreeipapiCors() {
+        $.ajax({
+            url: "https://free.freeipapi.com/api/json/",
+            dataType: "json",
+            timeout: 2500,
+            success: function (geoResponse) {
+                if (geoResponse && geoResponse.latitude && geoResponse.longitude) {
+                    getWeatherData(
+                        geoResponse.latitude, 
+                        geoResponse.longitude, 
+                        geoResponse.cityName || "Unknown City", 
+                        geoResponse.regionName || "Unknown Region",
+                        "freeipapi.com CORS"
+                    );
+                } else {
+                    tryIpapiCors();
+                }
+            },
+            error: function () {
+                tryIpapiCors();
+            }
+        });
+    }
+
+    function tryIpapiCors() {
+        console.warn("freeipapi.com CORS failed. Trying ipapi.co CORS...");
+        $.ajax({
+            url: "https://ipapi.co/json/",
+            dataType: "json",
+            timeout: 2500,
+            success: function (geoResponse) {
+                if (geoResponse && geoResponse.latitude && geoResponse.longitude) {
+                    getWeatherData(
+                        geoResponse.latitude, 
+                        geoResponse.longitude, 
+                        geoResponse.city || "Unknown City", 
+                        geoResponse.region || "Unknown Region",
+                        "ipapi.co CORS"
+                    );
+                } else {
+                    tryIpapiJsonp();
+                }
+            },
+            error: function () {
+                tryIpapiJsonp();
+            }
+        });
+    }
+
+    // --- JSONP Attempts (Fallback for local files / file://) ---
+
+    function tryIpapiJsonp() {
+        console.warn("CORS attempts failed. Trying ipapi.co JSONP...");
+        $.ajax({
+            url: "https://ipapi.co/json/",
+            dataType: "jsonp",
+            timeout: 2500,
+            success: function (geoResponse) {
+                if (geoResponse && geoResponse.latitude && geoResponse.longitude) {
+                    getWeatherData(
+                        geoResponse.latitude, 
+                        geoResponse.longitude, 
+                        geoResponse.city || "Unknown City", 
+                        geoResponse.region || "Unknown Region",
+                        "ipapi.co JSONP"
+                    );
+                } else {
+                    fallbackToKharagpur();
+                }
+            },
+            error: function () {
+                fallbackToKharagpur();
+            }
+        });
+    }
+
+    // --- Utility & Fallback ---
+
+    function getWeatherData(lat, lon, city, region, apiName) {
+        weatherData.city = city;
+        weatherData.region = region;
+        console.log("Geolocation successful via " + apiName + ": " + city + ", " + region + " (" + lat + ", " + lon + ")");
+        
+        // Cache the successful lookup in sessionStorage to conserve API request quotas
+        if (apiName !== "Cached Session") {
+            try {
+                sessionStorage.setItem("vlab_ivg_geolocation", JSON.stringify({
+                    lat: lat,
+                    lon: lon,
+                    city: city,
+                    region: region
+                }));
+            } catch (e) {
+                console.warn("Could not save geolocation to sessionStorage:", e);
+            }
+        }
+
+        $.ajax({
+            url: "https://api.open-meteo.com/v1/forecast?latitude=" + lat + "&longitude=" + lon + "&current=temperature_2m,relative_humidity_2m,surface_pressure",
+            dataType: "json",
+            timeout: 3000,
+            success: function (weatherResponse) {
+                console.log(weatherResponse);
+                if (weatherResponse && weatherResponse.current) {
+                    weatherData.temp = Math.round(weatherResponse.current.temperature_2m);
+                    weatherData.humidity = Math.round(weatherResponse.current.relative_humidity_2m);
+                    weatherData.pressure = Math.round(weatherResponse.current.surface_pressure);
+                }
+                updateWeatherUI();
+            },
+            error: function () {
+                updateWeatherUI();
+            }
+        });
+    }
+
+    function fallbackToKharagpur() {
+        console.warn("All geolocation attempts failed. Falling back to Kharagpur weather.");
+        weatherData.city = "Kharagpur";
+        weatherData.region = "West Bengal";
+        getWeatherData(22.3269, 87.3105, "Kharagpur", "West Bengal", "Kharagpur Fallback");
+    }
+}
+
+function wlkgp() {
+    fetchWeather();
+}
+
